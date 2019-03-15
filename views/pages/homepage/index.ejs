@@ -1,0 +1,10 @@
+<!-- views/pages/homepage.ejs -->
+<%- include('../../partials/template'); -%>
+
+<%- contentFor('body') %>
+<h1>Users</h1>
+<ul id="users">
+  <% data.forEach(function(user){ %>
+    <li><%= user.name %> &lt;<%= user.email %>&gt;</li>
+  <% }) %>
+</ul>
