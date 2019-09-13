@@ -1,2 +1,2 @@
-# expressjs-ejs-core-project-2019
+# expressjs-ejs-project-2019
 
