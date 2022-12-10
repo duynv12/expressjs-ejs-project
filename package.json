@@ -3,7 +3,7 @@
   "main": "app.js",
   "dependencies": {
     "ejs": "^2.6.1",
-    "express": "^4.16.1",
+    "express": "^4.17.3",
     "express-ejs-layouts": "^2.5.0"
   }
 }
